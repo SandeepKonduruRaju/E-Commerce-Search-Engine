@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "c:/Users/deepa/OneDrive/Desktop/project/Project C E-Commerce Search Engine/E-Commerce-Search-Engine/ecommerce-search/venv/Scripts/python.exe",
+    "python.interpreterPath": "c:/Users/deepa/OneDrive/Desktop/project/Project C E-Commerce Search Engine/E-Commerce-Search-Engine/ecommerce-search/venv/Scripts/python.exe",
+    "python.analysis.extraPaths": [
+        "c:/Users/deepa/OneDrive/Desktop/project/Project C E-Commerce Search Engine/E-Commerce-Search-Engine/ecommerce-search/backend"
+    ]
+}

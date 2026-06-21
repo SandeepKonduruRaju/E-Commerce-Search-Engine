@@ -1,0 +1,7 @@
+{
+  "venvPath": "ecommerce-search",
+  "venv": "venv",
+  "extraPaths": [
+    "ecommerce-search/backend"
+  ]
+}
